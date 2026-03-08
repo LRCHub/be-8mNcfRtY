@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夕日",
+  "base_artist": "中島 寂",
+  "createdAt": "2026-03-08T05:05:04.761865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕日",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/01_夕日_ねごと.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕日",
+      "artist": "中島 寂",
+      "has_synced": false,
+      "path": "select/pl_01_夕日_中島_寂.txt"
+    }
+  ]
+}
